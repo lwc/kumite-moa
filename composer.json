@@ -1,6 +1,10 @@
 {
     "name": "luke/kumite-moa",
+    "version": "0.5.0",
+    "type": "library",
     "description": "Bridge library for backing Kumite onto Moa",
+    "keywords": ["moa", "kumite", "bridge"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Luke Cawood",
