@@ -1,6 +1,6 @@
 {
     "name": "lwc/kumite-moa",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "type": "library",
     "description": "Bridge library for backing Kumite onto Moa",
     "keywords": ["moa", "kumite", "bridge"],
@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.3.2",
         "99designs/Moa": "1.0.*@beta",
-        "lwc/Kumite": "1.0.*@alpha"
+        "lwc/Kumite": "1.0.*@beta"
     },
     "autoload": {
         "psr-0": { 
