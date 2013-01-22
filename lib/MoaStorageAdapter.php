@@ -12,7 +12,7 @@ class MoaStorageAdapter implements Kumite\Adapters\StorageAdapter
 			'variant' => $variantKey
 		));
 		$participant->save();
-		return $participant->id();
+		return (string)$participant->id();
 	}
 
 	public function createEvent($testKey, $variantKey, $eventKey, $participantId, $metadata=null)
