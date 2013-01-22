@@ -1,6 +1,6 @@
 {
     "name": "lwc/kumite-moa",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "type": "library",
     "description": "Bridge library for backing Kumite onto Moa",
     "keywords": ["moa", "kumite", "bridge"],
